@@ -9,9 +9,11 @@ Build status
 
 npm Downloads
 
-DEMO 1 by @Ennoriel
+DEMO 1:
+https://svelte.dev/repl/b5bf5871c99742e584da244b4bfeac92?version=3.44.3
 
-DEMO 2
+DEMO 2:
+https://check-password-strength.netlify.app/
 
 Installation
 Install via Package Manager
@@ -100,13 +102,6 @@ value	Too weak, Weak, Medium & Strong
 contains	lowercase, uppercase, number and / or symbol
 length	length of the password
 If you want to translate the value (Too weak → Trop faible), you can translate it based on the return value, or override the defaultOptions option, which will be passed back as the function's return value.
-
-Contribute
-Feel free to clone or fork this project: https://github.com/deanilvincent/check-password-strength.git
-
-Contributions & pull requests are welcome!
-
-I'll be glad if you give this project a ★ on Github :)
 
 changelog
 v3: allow all symbols by default (any character except the 26 latin lowercase, uppercase letters and 10 digits) & set the default min length to 12 instead of 10
