@@ -1,5 +1,6 @@
 
 Overview
+
 A simple way to check that password strength of a certain passphrase. The library is fully typed.
 
 codecov
@@ -8,9 +9,9 @@ Build status
 
 npm Downloads
 
-DEMO 1 
+DEMO 1 : https://svelte.dev/repl/b5bf5871c99742e584da244b4bfeac92?version=3.44.3
 
-DEMO 2
+DEMO 2 : https://check-password-strength.netlify.app/
 
 Installation
 Install via Package Manager
